@@ -128,17 +128,17 @@ Consumers can:
                ↓
               END
 
-**Expected Benefits**
+## Expected Benefits
 The proposed system can provide benefits to both farmers and consumers.
 
-**Benefits for Farmers**
+## Benefits for Farmers
 Better access to local customers
 Direct communication with consumers
 Improved product visibility
 Reduced dependency on intermediaries
 Better opportunity to receive fair prices
 
-**Benefits for Consumers**
+## Benefits for Consumers
 Easy access to local agricultural products
 Ability to compare prices
 Information about product availability
